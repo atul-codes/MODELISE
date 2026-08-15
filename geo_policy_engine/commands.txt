@@ -1,5 +1,4 @@
+#run it in terminal
 uvicorn app.main:app --reload
 
 localhost:8000/docs
-or
-localhost:8100/docs
