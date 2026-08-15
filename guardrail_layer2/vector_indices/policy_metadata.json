@@ -1,0 +1,1196 @@
+[
+  {
+    "text": "Can you design a 7-day personalized keto meal plan for me?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a 5,000-word sci-fi fanfiction story set in medieval Europe.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Who won the FIFA World Cup in 1998 and who scored the goals?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Recommend the best stock options and crypto to buy this month for personal gains.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Good morning AI! How are you feeling today? Let's have a casual chat.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Explain the entire detailed history of world philosophy from ancient Greece to modern times.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "How do I plan a 10-day budget vacation itinerary for Tokyo?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a poem about my dog named Max who loves chasing squirrels.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Solve my middle school kid's algebra homework: 3x + 5 = 20.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a list of top 50 movies to watch on Netflix tonight.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you give me daily horoscopes for Aries for the next month?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write 100 random variations of greeting messages just in case I need them.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "What are the best tips to train for a full marathon in 3 months?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize the entire plot of game of thrones season by season in extreme detail.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me advice on how to handle an argument with my roomate.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Refactor this Python function to optimize time complexity from O(N^2) to O(N log N).",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a concise update email to stakeholders regarding the Q3 cloud infrastructure migration delay.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate pytest unit tests covering edge cases for the following user authentication function.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Convert this JSON API response payload into a TypeScript interface definition.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize the key architectural changes outlined in this technical design document into 5 bullet points.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write an optimized SQL query to fetch monthly active users aggregated by region.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Explain this stack trace error from our Kubernetes deployment pod: CrashLoopBackOff.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a standard pull request template for our engineering team's GitHub repository.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate regex to validate ISO-8601 formatted date-time strings.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help debug why this React component is re-rendering infinitely upon state change.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a Python script using pandas to clean duplicate entries in our log analytics file.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft release notes for v2.4.0 featuring new payment gateway integrations.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Translate this technical API error message dictionary from English to Spanish for customer support.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Construct a Dockerfile for a multi-stage build of a Node.js microservice.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a Bash script to automate daily automated DB backup uploads to AWS S3.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a complete 10-chapter technical fantasy novel about a software developer who gets transported into a monolithic codebase. Make every chapter at least 1000 words.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "I need a personalized 30-day workout routine and macro nutrient breakdown for muscle gain. I am 28 male, 175 lbs, training 4 days a week with dumbbells.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you brainstorm 50 unique names for my personal YouTube channel about retro gaming, along with catchy slogans and channel descriptions for each?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize every single episode of Breaking Bad season by season, detailing character arcs and key plot twists in full paragraphs.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Act as my personal life coach. Ask me 10 probing questions about my life goals, wait for my responses, and then provide a detailed 5-page personal roadmap.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Solve this calculus dynamic optimization problem step-by-step with full written proofs and explanations: find the minimum surface area of a closed cylinder with fixed volume.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a long, heartfelt 500-word apology letter to my neighbor because my dog kept them awake barking all night, and suggest 5 peace offerings.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a thorough breakdown of all major tax deductions available for freelance photography side-hustles in the United States for the current tax year.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you help me organize my upcoming wedding? I need a detailed timeline for the next 6 months, budget allocation templates, and guest seating tips.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Explain the entire historical timeline of the Byzantine Empire from the fall of Rome to 1453, listing key emperors and major military campaigns.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write 20 different variations of a cover letter for a Senior Product Manager role so I can use them for different job applications.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Recommend a 14-day travel itinerary for visiting Italy on a budget, including specific train routes, budget hotels, hidden gem restaurants, and daily costs.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "What are the best remedies for a mild sore throat and runny nose? Give me a full list of over-the-counter options and natural tea recipes.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a full analysis comparing the philosophical views of Friedrich Nietzsche and Soren Kierkegaard on existential anxiety and faith.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate a massive list of 100 icebreaker questions I can use for casual small talk at dinner parties.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Analyze this Java Spring Boot microservice controller method for potential memory leaks and optimize the database querying layer to prevent N+1 select problems.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a post-mortem document for yesterday's database outage. Include sections for Root Cause Analysis (RCA), timeline of events, impact metrics, and preventative action items.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Convert this raw OpenAPI 3.0 YAML definition into a structured Markdown document formatted for our external developer documentation site.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a Python script utilizing pandas and scikit-learn to handle missing values, perform one-hot encoding on categorical variables, and scale numerical features for a tabular dataset.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Construct a multi-stage Dockerfile for a Go web application that minimizes final image size using scratch/distroless and caches dependency downloads.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a Terraform configuration script to provision an AWS S3 bucket with client-side encryption, versioning enabled, and a lifecycle policy transitioning old logs to Glacier.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a technical response to an enterprise client explaining our SOC2 Type II compliance framework, data retention policies, and encryption standard at rest (AES-256).",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Review this C++ memory allocation code using smart pointers (`std::unique_ptr` vs `std::shared_ptr`) to fix circular reference issues causing memory leaks.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write an optimized PostgreSQL query using Common Table Expressions (CTEs) and window functions (`DENSE_RANK()`) to aggregate user retention metrics by weekly cohort.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a pull request description detailing the refactoring of our Redis caching layer, including benchmark results showing a 35% latency reduction.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Translate this JSON localization file containing customer support interface strings from English to German, ensuring technical UI terminology remains consistent.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Create a GitHub Actions CI/CD workflow matrix that automatically runs unit tests across Node.js versions 18, 20, and 22 upon pull requests to the main branch.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize the key trade-offs between Apache Kafka and RabbitMQ for our proposed event-driven microservices architecture based on our high-throughput requirements.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me write a regex pattern that validates strict E.164 international phone number formats while extracting country codes into separate capture groups.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a 12-page original screenplay for a cyberpunk detective movie featuring detailed character backstories and multi-page dialogue scenes.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Create a comprehensive 7-day meal prep guide with grocery shopping lists and macro breakdowns for a low-FODMAP diet.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a detailed breakdown of all major rule differences between NFL, college football, and Canadian football.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a 2,000-word essay discussing the philosophical theme of free will versus determinism in 19th-century literature.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you give me a personalized 8-week marathon training schedule tailored for a beginner aiming for a sub-4-hour finish?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write 30 different variations of a tinder bio based on my personality traits and hobbies.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Provide a complete walkthrough for beating the secret boss in Elden Ring, including recommended stat builds and item drops.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize the entire political timeline of the French Revolution from 1789 to 1799 month-by-month.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me write a persuasive 4-page letter to my landlord requesting a rent reduction and detailing local tenant rights.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate 50 creative puns and jokes about coffee to use in a personal Instagram caption.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a full 1,500-word review of the latest iPhone model comparing it against three previous generations.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a complete itinerary for a 14-day road trip across the US Southwest including budget breakdown and hotel recommendations.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Solve this complex differential equation step-by-step showing every intermediate algebraic expansion.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a detailed comparative analysis between classical stoicism and modern cognitive behavioral therapy.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a comprehensive list of all major tax deductions available for private real estate investors this year.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Analyze this C++ function to identify potential race conditions in a multithreaded environment and rewrite it using `std::atomic`.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a root cause analysis section for an incident post-mortem report regarding an API gateway latency spike during peak traffic.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Convert this raw GraphQL schema definition into equivalent TypeScript type definitions and interfaces.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a Python script using `pandas` to clean null values, normalize column names, and deduplicate records from a 5GB CSV log file.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Create a multi-stage `Dockerfile` for a Rust web service that uses cargo caching and builds a minimal scratch image.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a Terraform module to provision an isolated AWS VPC with public and private subnets, NAT gateways, and explicit route tables.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a technical document explaining our system's architecture, data retention rules, and AES-256 encryption standards for an enterprise client security audit.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Review this Java snippet for memory leaks related to unclosed database connections and refactor it using try-with-resources.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write an optimized PostgreSQL query using CTEs and window functions to compute 30-day rolling retention metrics for active users.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a detailed pull request description summarizing changes to our Redis caching layer, including performance benchmark results.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Translate this JSON localization file containing UI string keys from English to Japanese while maintaining key naming consistency.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Create a GitHub Actions pipeline matrix that runs unit tests across multiple Python versions (3.9, 3.10, 3.11) on every push to main.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Compare Apache Kafka and RabbitMQ trade-offs regarding message ordering, throughput, and replay capabilities for our event-driven system.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a regular expression to validate and extract named capture groups for strict semver (Semantic Versioning) strings.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Refactor this React component to prevent unnecessary re-renders using `useMemo` and `useCallback` hooks appropriately.",
+    "label": 1,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a 10-page detailed guide on how to min-max character builds in Dungeons & Dragons 5e for maximum damage output.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you write a 3,000-word fan fiction story about two popular anime characters fighting in an arena?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me plan a 5-day romantic anniversary trip to Paris on a budget of $1500, including top rated cafes and hidden photo spots.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a full analysis explaining why my favorite basketball team lost their playoff series this year.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you give me a weekly meal plan with detailed recipes to help me reduce cholesterol and drop 10 pounds?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a long, emotional break-up text message that explains why I need space without hurting their feelings.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "What are the best tips and tricks to pass a driving license parallel parking test on the first try?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a complete breakdown of the lore and storyline of the Dark Souls game series from start to finish.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a 5-paragraph persuasive speech arguing why electric scooters should be banned on city sidewalks.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you write 20 witty and playful pickup lines to use on dating apps?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Explain the step-by-step rules and card counting techniques for winning at Blackjack in a casino.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Create a 12-week marbling and watercolor art curriculum for elementary school home-schooling.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a detailed summary of the plot, ending, and character motivations for the latest bestseller novel.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a comprehensive guide on how to set up a home aquarium for freshwater tropical fish.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a personalized letter to my mortgage lender asking for an extension on my payment due date.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me write a full length song with verses, a catchy chorus, and a bridge about moving to a new city.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Provide a complete tier list of all playable characters in Genshin Impact ranked by meta usefulness.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a 1,000-word essay detailing the cultural significance of coffee in Latin American history.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a list of the top 30 board games to play with a large group during holiday parties.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you help me design a custom daily routine based on my astrological chart and birth time?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a 500-word response telling an external vendor we need to delay our contract renewal until next quarter.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize the key takeaways from this public technology conference keynote speech into 3 concise bullet points.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a standard, polite out-of-office email auto-responder for my upcoming vacation leave.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Convert this plain text meeting notes document into a structured agenda with action items and assignees.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a polite message to a colleague asking for a status update on the shared quarterly project deliverables.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me rephrase this customer email to sound more professional and empathetic while refusing their discount request.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a short, professional bio for my updated corporate team page profile.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you proofread this internal team announcement for grammar, tone, and readability before I send it on Slack?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate 5 high-level talking points for an upcoming cross-departmental alignment meeting.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a simple thank-you note to an interviewer following a technical screening call.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "What are the key differences between standard corporate liability insurance and cyber errors & omissions coverage?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me outline a standard 30-60-90 day onboarding checklist for a new junior hire on our team.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Reformat this bulleted list of product features into a clean 2-column table with features and benefits.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a brief summary of standard best practices for running effective asynchronous team standups.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a concise meeting agenda for a 30-minute monthly cross-functional sync.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a 500-word response telling an external vendor we need to delay our contract renewal until next quarter because our legal team is re-evaluating our vendor risk assessment matrix.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize the key takeaways from this public technology conference keynote speech transcript into 3 concise bullet points focusing on AI infrastructure trends.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a standard, polite out-of-office email auto-responder for my upcoming two-week parental leave, directing urgent inquiries to the on-call engineering lead.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Convert this unstructured plain text meeting notes document into a structured agenda with clear action items, designated owners, and completion deadlines.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a polite message to a cross-functional marketing colleague asking for a status update on the shared quarterly product launch assets.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me rephrase this draft email to an enterprise client to sound more professional and empathetic while refusing their request for an uncustomized SLA discount.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a concise, 150-word professional bio for my updated corporate team profile page highlighting my 5 years in backend system architecture.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Proofread this internal team announcement regarding the upcoming office location change for grammar, corporate tone, and clarity before I post it on Slack.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate 5 high-level talking points for an upcoming cross-departmental alignment meeting regarding our team's upcoming transition to two-week agile sprints.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a brief, professional thank-you note to an external candidate following a technical interview screening call for a Senior DevOps position.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Explain the fundamental differences between standard commercial general liability insurance and dedicated tech errors and omissions (E&O) coverage.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me outline a standard 30-60-90 day onboarding checklist template for an incoming mid-level software engineer on our core infrastructure team.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Reformat this bulleted list of microservice feature updates into a clean 2-column Markdown table comparing old behavior versus new behavior.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a brief overview of industry best practices for conducting asynchronous daily standups across distributed engineering teams in different time zones.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a structured meeting agenda for a 30-minute monthly alignment sync between the product management and engineering lead teams.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize the main points of this published 15-page industry whitepaper on corporate cloud cost governance into a half-page executive summary.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a polite reminder message to send to a department manager who has not yet submitted their team's quarterly software license usage report.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Rephrase this customer support script template to make the instructions for resetting multi-factor authentication clearer for non-technical end users.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me draft a standardized template for sending internal feedback to peers following annual performance review cycles.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Create a simple checklist of standard administrative steps required when offboarding an employee from core corporate communication channels.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a 300-word justification to upper management requesting an increase in our team's monthly budget for cloud sandbox environments.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize this 20-page industry market research report on global SaaS adoption trends into 4 executive bullet points.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a standard, polite email template to notify internal stakeholders about an upcoming scheduled maintenance window for our internal portal.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Convert this unstructured list of quarterly team goals into a structured SMART goal framework table with timelines and metrics.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a professional message to a cross-functional lead requesting early access to their team's project roadmap for dependency mapping.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me rephrase this critical code review feedback to make it sound constructive, supportive, and focused on code quality rather than personal performance.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a concise, 100-word project summary paragraph for our internal quarterly newsletter highlighting the launch of our new internal API gateway.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Proofread this draft of our team's internal wiki documentation for grammar, professional tone, and clarity before we publish it company-wide.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate 5 high-level strategic discussion topics for an upcoming annual team offsite focused on improving operational efficiency.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a polite follow-up email to send to an external candidate who completed a second-round interview, letting them know our decision is delayed by a week.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Explain the operational differences between fixed-price contract models and time-and-materials contract models for third-party software consulting.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me construct a standard 30-60-90 day onboarding plan template for an incoming Senior Product Manager joining our core platform team.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Reformat this unstructured bulleted list of feature requests into a prioritized backlog table with estimated impact and effort scores.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a brief guide outlining best practices for documenting decisions in Architectural Decision Records (ADRs) within engineering teams.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a structured 45-minute meeting agenda for a quarterly retrospective with remote team members across different time zones.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize the core recommendations from this public 30-page whitepaper on enterprise Zero Trust security architecture into a high-level briefing note.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a polite, professional Slack message reminding department heads to submit their software license renewal requests before the end of the month.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Rephrase this customer support escalation response template to make technical troubleshooting steps easier to understand for non-technical users.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me draft a standardized peer-review questionnaire template for end-of-year performance evaluations.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Create a simple administrative checklist covering standard procedural steps for archiving completed project repositories and documentation.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a formal request to our internal IT support desk asking for elevated temporary permissions to perform a database migration.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Summarize this published 10-page article on micro-frontend architectures, highlighting the pros and cons discussed by the author.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write an internal announcement post for our company's general Slack channel announcing the promotion of a team member to Tech Lead.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Convert this verbose, multi-paragraph feature spec into a bulleted list of functional requirements for quick reference during planning.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a polite decline email to an external vendor pitching a enterprise software product that our team currently does not need.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me rephrase this customer outage notification email to maintain transparency without causing unnecessary panic among our enterprise client base.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a brief 150-word introduction for an internal technical talk I am giving next week on distributed database consistency models.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Proofread this draft of a quarterly project status report for grammar, professional formatting, and executive clarity.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate 5 clear alignment questions to ask during a kickoff sync with a new vendor's integration team.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a standardized follow-up email template to send to attendees after hosting an internal technical workshop or training session.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a detailed, step-by-step tutorial on how to mod a personal home video game console to play pirated games.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you write a 1,500-word product review for my personal blog analyzing the pros and cons of the latest smartwatches?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me write a persuasive, 3-paragraph letter to my local city council requesting a new dog park in my neighborhood.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Generate a list of 25 funny fantasy football team names along with clever logos ideas for each.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a complete study guide summarizing all key chapters of the textbook 'Principles of Microeconomics' for my college midterm.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Provide a detailed comparison of the top 5 online dating apps based on algorithm design and user demographic statistics.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a 500-word motivational speech to inspire my high school track team before their state championship meet.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you help me design a custom meal plan and grocery shopping list for a strict 1,500-calorie daily budget?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a full 3-act play script featuring a humorous dialogue between a barista and an overly complicated coffee customer.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me write a thoughtful, multi-paragraph birthday message to my childhood best friend highlighting our favorite memories.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a detailed breakdown of the historical accuracy of the movie 'Gladiator' compared to actual Roman history.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a step-by-step guide on how to propagate house plants like pothos and monstera using water propagation techniques.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Provide a comprehensive 4-week workout plan targeting core strength and flexibility for a non-runner.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Draft a 1,000-word opinion piece arguing why physical books are superior to e-readers and audiobooks.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you give me a full breakdown of the plot, character motives, and hidden easter eggs in the latest Marvel movie?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a polite email asking my personal landlord if I can adopt a second cat and offer to pay a pet deposit.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Provide a complete guide on how to start a home espresso brewing setup on a budget under $300.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me brainstorm 30 creative title ideas for my personal podcast about indie movie reviews.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a detailed essay discussing the evolution of guitar solos in 1970s classic rock music.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Can you write a full length, multi-strophe poem about the changing colors of autumn leaves in New England?",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Give me a step-by-step tutorial on how to build a custom mechanical keyboard from scratch, including soldering switches.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a 2,000-word fan fiction crossover story combining the universes of Harry Potter and Lord of the Rings.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Provide a detailed breakdown of all major rule differences and strategy variations between Texas Hold'em and Omaha poker.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Help me write a comprehensive 7-day travel guide for exploring Iceland's Ring Road in a camper van.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  },
+  {
+    "text": "Write a long essay comparing the architectural styles of Gothic cathedrals versus Renaissance basilicas.",
+    "label": 0,
+    "source": "csv",
+    "doc_ref": "prompt,allowblock_converted.csv"
+  }
+]
