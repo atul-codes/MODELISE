@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package pel;
+
+service PolicyEnforcement {
+  rpc InspectText (TextRequest) returns (InspectResponse);
+  rpc InspectImage (ImageRequest) returns (InspectResponse);
+}
+
+message TextRequest {
+  string request_id = 1;
+  string text = 2;
+}
+
+message ImageRequest {
+  string request_id = 1;
+  bytes image_data = 2;
+  string mime_type = 3;
+}
+
+message InspectResponse {
+  float risk_score = 1;
+  Action action = 2;
+}
+
+enum Action {
+  ALLOW = 0;
+  REDACT = 1;
+  BLOCK = 2;
+}
