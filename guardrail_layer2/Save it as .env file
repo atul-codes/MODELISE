@@ -1,0 +1,33 @@
+# Copy this file to .env and fill in real values before starting the service.
+# Everything below has a working default in app/config.py if you omit it,
+# except JWT_SECRET_KEY and ADMIN_PASSWORD - change those before anything
+# beyond local experimentation.
+
+# --- Ollama / Local LLM ---
+#I'm using LM Studio
+OLLAMA_BASE_URL=http://localhost/8000 #use your own server
+OLLAMA_EVAL_MODEL=gemma-4-e2b-it
+OLLAMA_GEN_MODEL=gemma-4-e2b-it
+
+# --- Auth ---
+JWT_SECRET_KEY=replace-with-a-long-random-secret-before-deploying
+JWT_ALGORITHM=HS256
+JWT_EXPIRE_MINUTES=60
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=replace-with-a-strong-admin-password
+
+# --- FAISS / Embeddings ---
+FAISS_DISTANCE_THRESHOLD=0.75
+EMBEDDING_MODEL_NAME=sentence-transformers/all-MiniLM-L6-v2
+CHUNK_SIZE=500
+CHUNK_OVERLAP=100
+
+# --- Budget / rate limiting ---
+DEFAULT_USER_BUDGET_USD=5.0
+HIGH_COST_RATE_LIMIT_PER_MINUTE=10
+
+# --- Gate 1 failure behavior ---
+# false = fail CLOSED (refuse with 503) if the judge model is unreachable.
+# true  = fail OPEN (treat as medium risk and continue). Off by default -
+# see core/cost_guard.py for the reasoning.
+FAIL_OPEN_ON_JUDGE_ERROR=false
