@@ -1,0 +1,19 @@
+[project]
+name = "modelise-guardrail-layer2"
+version = "1.0.0"
+description = "MODELISE Layer 2 - Custom Organizational Policy Enforcement, Semantic Token-Burn Exploit Defense, and Local LLM Orchestration Engine"
+requires-python = ">=3.11"
+
+[tool.pyright]
+# Without this file (or an equivalent .vscode/settings.json), Pylance has no
+# marker telling it that THIS folder is the import root, so absolute imports
+# like `from app.config import settings` resolve fine at runtime (uvicorn is
+# launched from this directory, so Python's own import machinery finds `app`
+# via the CWD) but show red "reportMissingImports" squiggles in the editor,
+# since the static analyzer doesn't know to search here.
+include = ["app", "tests"]
+extraPaths = ["."]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
