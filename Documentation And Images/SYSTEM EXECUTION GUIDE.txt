@@ -1,0 +1,45 @@
+================================================================================
+                    MODELISE V2 - SYSTEM EXECUTION GUIDE
+================================================================================
+
+[ 1. SERVICE URL & PORT REFERENCE ]
+--------------------------------------------------------------------------------
+1. Backend Main Service
+   - Port: 8080
+   - Swagger UI:   http://localhost:8080/docs
+   - ReDoc:        http://localhost:8080/redoc
+   - Base URL:     http://localhost:8080
+
+2. Guardrail Layer 2 (FAISS Engine)
+   - Port: 8001
+   - Docs:         http://localhost:8001/docs
+   - Inspect Route: http://localhost:8001/api/v1/guardrail/inspect
+
+3. Geo Policy Engine (Layer 2)
+   - Port: 8000
+   - Docs:         http://localhost:8000/docs
+   - Inspect Route: http://localhost:8000/api/v1/geo/inspect
+
+4. Layer 1 Policy Enforcement Service (PEL)
+   - Protocol: gRPC
+   - Port: 50051
+   - Target: localhost:50051
+
+
+================================================================================
+[ 2. TERMINAL STARTUP COMMANDS (Open 4 Separate Terminals) ]
+================================================================================
+
+--- TERMINAL 1: Backend Main ---
+python -m uvicorn src.app:app --reload --port 8080
+
+--- TERMINAL 2: Guardrail Layer 2 ---
+python -m uvicorn app.main:app --reload --port 8001
+
+--- TERMINAL 3: Geo Policy Engine ---
+python -m uvicorn app.main:app --reload --port 8000
+
+--- TERMINAL 4: Layer 1 PEL (gRPC Service) ---
+python -m app.main
+
+
