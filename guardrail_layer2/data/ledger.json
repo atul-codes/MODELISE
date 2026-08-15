@@ -1,0 +1,52 @@
+{
+  "user_123": {
+    "total_spent_usd": 0.0080765,
+    "total_prompt_tokens": 862,
+    "total_completion_tokens": 5097,
+    "request_count": 17,
+    "blocked_token_burn_count": 3,
+    "blocked_budget_count": 0,
+    "blocked_rate_limit_count": 0,
+    "budget_cap_usd": 5.0
+  },
+  "user_124": {
+    "total_spent_usd": 0.0,
+    "total_prompt_tokens": 0,
+    "total_completion_tokens": 0,
+    "request_count": 0,
+    "blocked_token_burn_count": 0,
+    "blocked_budget_count": 0,
+    "blocked_rate_limit_count": 0,
+    "budget_cap_usd": 1.0
+  },
+  "admin": {
+    "total_spent_usd": 0.0011155000000000002,
+    "total_prompt_tokens": 92,
+    "total_completion_tokens": 713,
+    "request_count": 2,
+    "blocked_token_burn_count": 0,
+    "blocked_budget_count": 0,
+    "blocked_rate_limit_count": 0,
+    "budget_cap_usd": 5.0
+  },
+  "user1": {
+    "total_spent_usd": 0.0,
+    "total_prompt_tokens": 0,
+    "total_completion_tokens": 0,
+    "request_count": 0,
+    "blocked_token_burn_count": 0,
+    "blocked_budget_count": 0,
+    "blocked_rate_limit_count": 0,
+    "budget_cap_usd": 5.0
+  },
+  "user_21": {
+    "total_spent_usd": 0.0,
+    "total_prompt_tokens": 0,
+    "total_completion_tokens": 0,
+    "request_count": 0,
+    "blocked_token_burn_count": 0,
+    "blocked_budget_count": 0,
+    "blocked_rate_limit_count": 0,
+    "budget_cap_usd": 8.0
+  }
+}
