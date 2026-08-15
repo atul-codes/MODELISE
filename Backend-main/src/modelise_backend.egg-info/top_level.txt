@@ -1,0 +1,9 @@
+api
+app
+core
+database
+governance
+integrations
+models
+schemas
+services

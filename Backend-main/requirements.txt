@@ -1,0 +1,18 @@
+fastapi>=0.139.2
+uvicorn>=0.51.0
+pydantic-settings>=2.14.2
+python-multipart>=0.0.32
+sqlalchemy>=2.0.51
+alembic>=1.18.5
+pyjwt>=2.10.1
+passlib[bcrypt]>=1.7.4
+bcrypt==4.0.1
+cryptography>=44.0.0
+httpx>=0.28.1
+grpcio>=1.62.0
+python-dotenv>=1.0.1
+
+# Only needed if DATABASE_URL points at a real SQL Server - not required
+# for local testing with a SQLite DATABASE_URL. Uncomment if/when you
+# connect to a real SQL Server:
+# pyodbc>=5.3.0
