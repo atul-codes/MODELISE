@@ -1,0 +1,43 @@
+:root {
+  /* Surfaces */
+  --paper: #eff3f1;
+  --surface: #ffffff;
+  --surface-2: #f6f8f7;
+  --line: #dce3df;
+  --line-strong: #c4cfc9;
+
+  /* Text */
+  --ink: #17251f;
+  --ink-2: #3b4a44;
+  --muted: #65756e;
+
+  /* Accent and verdict colours */
+  --accent: #2b4fa3;
+  --accent-strong: #213f86;
+  --accent-soft: #e5ebf8;
+  --good: #1a7a52;
+  --good-soft: #e2f3ea;
+  --good-line: #b9dfc9;
+  --bad: #bd3a2b;
+  --bad-soft: #fbe8e5;
+  --bad-line: #efc0b9;
+  --bad-wash: #f3c6bf;
+  --warn: #9c6209;
+  --warn-soft: #fbf0d9;
+  --warn-line: #ecd39b;
+
+  /* Sidebar */
+  --side: #14231f;
+  --side-ink: #cbd9d3;
+  --side-mute: #8ba39a;
+  --side-accent: #7fd3b2;
+
+  /* Shape */
+  --r-lg: 14px;
+  --r-md: 10px;
+  --r-sm: 7px;
+
+  /* Type */
+  --font: 'Hanken Grotesk Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --mono: 'JetBrains Mono Variable', ui-monospace, 'Cascadia Code', Consolas, monospace;
+}

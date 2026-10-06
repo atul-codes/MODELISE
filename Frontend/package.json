@@ -1,0 +1,22 @@
+{
+  "name": "modelise-console",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/hanken-grotesk": "^5.2.0",
+    "@fontsource-variable/jetbrains-mono": "^5.2.0",
+    "lucide-react": "^0.556.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.1.7"
+  }
+}
